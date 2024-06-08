@@ -6,3 +6,4 @@ python-dotenv==1.0.1
 streamlit==1.35.0
 streamlit_chat==0.1.1
 pypdf
+faiss-cpu
